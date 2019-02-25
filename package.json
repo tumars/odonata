@@ -1,6 +1,6 @@
 {
   "name": "odonata",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "CLI tool and lib to gather performance metrics",
   "homepage": "https://github.com/tumars/odonata",
   "main": "src/index.js",
@@ -21,7 +21,6 @@
     "clui": "^0.3.6",
     "commander": "^2.19.0",
     "figlet": "^1.2.1",
-    "fs-extra": "^7.0.1",
     "ora": "^3.1.0",
     "puppeteer": "^1.12.2"
   },
